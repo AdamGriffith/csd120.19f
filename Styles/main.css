@@ -11,8 +11,8 @@ h2{ color:#801515;}
 
 a{ color:#AA3939;}
      
-header{  color:#550000;}
+header nav a {  color:#550000;}
      
-byline {  color:#000000;}
+.byline {  color: rgba(0,0,0,0.5);}
      
-#page_copyright{ color:#E6E6FA;}
+#page-copyright{ color:#E6E6FA;}
