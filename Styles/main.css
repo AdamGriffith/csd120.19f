@@ -10,12 +10,10 @@ Width-wrap { border-left:1px solid black;
     border-bottom:1px  solid black;
     padding-right: 2em; 
     padding-left:  2em;
-    text-align: center;
     margin-bottom: 3em;
     max-width: 1024px;}
 
-Bio {text-indent: 3em;
-     text-align: center;}
+Bio {text-indent: 3em;}
 
 head{ color:#AA3939;}
 
@@ -30,6 +28,8 @@ h2{ color:#401515;
      background-repeat: repeat-x;
      font-family: 'Domine', serif;
      font-family: 'Montserrat', sans-serif;}
+
+mugshot {box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);}
 
 a{ color:#AA3939;}
 
